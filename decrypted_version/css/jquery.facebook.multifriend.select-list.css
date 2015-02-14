@@ -1,0 +1,190 @@
+/*
+Copyright 2010 Mike Brevoort http://mike.brevoort.com @mbrevoort
+
+v1.0 jquery-facebook-multi-friend-selector
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+#jfmfs-friend-selector input {
+   /* background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    font: 11px verdana, arial, helvetica, sans-serif;
+    margin: 2px 0;
+    padding: 2px 4px;*/
+	margin-top:15px;
+	
+	background:url(../images2/bg_input.png) top left no-repeat;
+	width:200px; 
+	height:27px;  
+	border:none;
+	padding:0px 5px;
+	font-family:Georgia, "Times New Roman", Times, serif; 
+}
+.jfmfs-friend {                
+    cursor:pointer;
+    display:block;
+    float:left;
+    margin:3px;
+    padding:2px;
+    width:180px;
+	overflow: hidden;
+    border: 1px solid #FFFFFF;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+}
+
+.jfmfs-friend img {
+    border: 1px solid #CCC;
+    float:left;
+    margin:0;
+    width:20px;
+	height:20px;
+}
+
+.jfmfs-friend.selected img {
+    border: 1px solid #233E75;
+}
+
+.jfmfs-friend div {
+    color:#111111;
+    font-size:11px;
+    overflow:hidden;
+    padding:2px 0 0 6px;
+    width:145px;
+}
+
+#jfmfs-friend-container {
+   /* overflow:scroll;*/
+    overflow-x: hidden;
+    -ms-overflow-x: hidden;
+    width:100%;
+   /* height:271px;  */
+    font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+    color: #333;
+    font-size: 12px;
+	margin-top:10px;
+	
+	
+}
+
+#jfmfs-friend-selector {
+    width:600px;   
+    height:auto;                            
+}
+
+#jfmfs-inner-header {
+    /*background:none repeat scroll 0 0 #F7F7F7;
+    border-bottom:1px solid #CCCCCC;*/
+    color:#990000;
+    font-size:11px;
+    font-weight:bold;
+    height:25px;
+    padding:2px;
+	font-size:20px !important;
+	font-weight:normal !important;
+}
+
+.jfmfs-friend.selected {
+    background-color: #3B5998;
+    border: 1px solid #3B5998;
+    
+    background: #6D84B4; /* for non-css3 browsers */
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#233E75', endColorstr='#6D84B4'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#233E75), to(#6D84B4)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #233E75,  #6D84B4); /* for firefox 3.6+ */    
+}
+
+.jfmfs-friend.selected div {
+    color: #FFFFFF;
+}
+
+.hover {
+    background-color: #EFF2F7;
+}
+
+.hide-non-selected, .hide-filtered {
+    display: none;
+}
+
+div.jfmfs-button {
+    background:none repeat scroll 0 0 #6D84B4;
+    border:1px solid #3B5998;
+    color:white;
+    cursor:pointer;
+    margin:4px 5px 0 4px;
+    padding:2px 5px;
+    text-decoration:none;
+}
+
+#jfmfs-friend-selector a.filter-link:link, a.filter-link:visited {
+    color: #3B5998;
+    font-weight: bold;
+    text-decoration: none;
+	margin-top:15px;
+}
+
+#jfmfs-friend-selector a.filter-link:hover, #jfmfs-friend-selector a.selected {
+    background-color: #6D84B4;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    color: #FFFFFF;
+}
+
+#jfmfs-friend-selector .filter-link {
+    margin:4px 5px 4px 5px;
+    padding:3px 5px 3px 5px;
+}
+
+#jfmfs-inner-header .filter-link {
+    float:right;
+}
+
+#jfmfs-inner-header div.jfmfs-button-hover {
+    text-decoration: underline;
+}
+
+
+#jfmfs-friend-filter-text {
+    height: 21px;
+	width:150px
+}
+
+
+#jfmfs-inner-header span.jfmfs-title {
+    display:block;
+}
+
+#jfmfs-max-selected-wrapper, #jfmfs-filter-all, #jfmfs-filter-selected {
+    display:block;
+}
+#invite-friends
+{
+background-color: #6D84B4;
+    background-image: -moz-linear-gradient(##6D84B4, #D0D0D0);/*F5F5F5*/
+    border: 1px solid #6D84B4;/*999999*/
+    color: #fff;/*0066CC*/
+    opacity: 0.85;
+    /*text-shadow: 0 1px 0 #FFFFFF;*/
+	border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+	text-align: center;
+    width: auto;
+	margin: 15px 230px 0;
+	padding:3px;
+	font-weight:bold;
+	
+}

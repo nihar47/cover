@@ -1,0 +1,578 @@
+[05-Jun-2012 18:37:30] PHP Fatal error:  Class 'ROCKERS_Controller' not found in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 39
+[05-Jun-2012 18:38:36] PHP Fatal error:  Class 'ROCKERS_Controller' not found in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 39
+[05-Jun-2012 18:42:39] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::getwhere() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/project_details.php on line 497
+[06-Jun-2012 10:41:24] PHP Fatal error:  Call to undefined method Home_model::select_site_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 3068
+[06-Jun-2012 10:41:24] PHP Fatal error:  Call to undefined method Home_model::select_site_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 3068
+[06-Jun-2012 10:42:24] PHP Fatal error:  Call to undefined method Home_model::select_site_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 3068
+[06-Jun-2012 10:42:25] PHP Fatal error:  Call to undefined method Home_model::select_site_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 3068
+[06-Jun-2012 10:42:26] PHP Fatal error:  Call to undefined method Home_model::select_site_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 3068
+[07-Jun-2012 14:26:41] PHP Fatal error:  Class 'MY_Controller' not found in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/image.php on line 2
+[07-Jun-2012 14:33:21] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 2158
+[07-Jun-2012 14:33:21] PHP Parse error:  syntax error, unexpected $end in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 2158
+[07-Jun-2012 14:39:57] PHP Parse error:  syntax error, unexpected $end in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 659
+[07-Jun-2012 15:22:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/template.php on line 6
+[07-Jun-2012 15:22:25] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/template.php on line 6
+[08-Jun-2012 10:48:24] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 10:49:50] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 11:00:27] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 15:47:11] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 17:24:41] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 17:30:07] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 17:33:32] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 18:06:19] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[08-Jun-2012 18:06:43] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/iphone/search_project_detail.php on line 33
+[09-Jun-2012 09:57:13] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/project.php on line 4935
+[09-Jun-2012 10:00:03] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[09-Jun-2012 10:10:30] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[09-Jun-2012 10:30:23] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[09-Jun-2012 10:30:36] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[09-Jun-2012 10:32:16] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[09-Jun-2012 10:35:23] PHP Fatal error:  Call to undefined method Home_model::dynamic_menu() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 860
+[09-Jun-2012 11:37:43] PHP Warning:  Unterminated comment starting line 3165 in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/project.php on line 3165
+[09-Jun-2012 11:37:43] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/project.php on line 3165
+[09-Jun-2012 12:40:32] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 1631
+[09-Jun-2012 13:15:49] PHP Fatal error:  Call to undefined method CI_Input::xss_clean() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 1621
+[09-Jun-2012 13:25:41] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 1041
+[09-Jun-2012 14:06:18] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 1808
+[09-Jun-2012 14:06:18] PHP Parse error:  syntax error, unexpected $end in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 1808
+[09-Jun-2012 15:14:22] PHP Parse error:  syntax error, unexpected $end in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/models/project_model.php on line 3235
+[09-Jun-2012 16:02:55] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/mobile/search_project_detail.php on line 33
+[18-Jul-2012 15:55:44] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[18-Jul-2012 15:55:54] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[18-Jul-2012 15:56:28] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:37:54] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[19-Jul-2012 09:37:59] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[19-Jul-2012 09:38:22] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[19-Jul-2012 09:57:18] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:57:48] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:13] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:32] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:33] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:33] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:34] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:35] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:35] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:36] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 09:58:48] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 10:00:08] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 10:00:42] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 10:00:58] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[19-Jul-2012 10:06:43] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[20-Jul-2012 11:33:06] PHP Fatal error:  Call to undefined method Home_model::wallet_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/wallet/withdrawal_detail.php on line 87
+[20-Jul-2012 11:33:18] PHP Fatal error:  Call to undefined method Home_model::wallet_setting() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/wallet/withdrawal_detail.php on line 87
+[20-Jul-2012 11:51:06] OAuthException: An active access token must be used to query information about the current user.
+[20-Jul-2012 11:51:08] OAuthException: An active access token must be used to query information about the current user.
+[20-Jul-2012 12:15:41] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[20-Jul-2012 12:51:43] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[20-Jul-2012 13:02:35] PHP Fatal error:  Call to undefined method Home_model::get_user_detail() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/donations.php on line 103
+[20-Jul-2012 13:12:53] PHP Fatal error:  Call to undefined method Project_model::get_one_project() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/userhome.php on line 338
+[24-Jul-2012 19:51:57] CurlException: 28: Operation timed out after 60001 milliseconds with 0 bytes received
+[11-Aug-2012 15:35:11] PHP Parse error:  syntax error, unexpected ')' in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/views/default/edit_project.php on line 472
+[30-Aug-2012 15:38:52] PHP Fatal error:  Call to undefined method Project_model::get_image_setting_data() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 2090
+[30-Aug-2012 15:39:41] CSRF state token does not match one provided.
+[30-Aug-2012 15:39:41] PHP Fatal error:  Call to undefined method Project_model::get_image_setting_data() in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/controllers/home.php on line 2090
+[01-Oct-2012 18:25:03] PHP Fatal error:  Call to a member function get_my_donations_count() on a non-object in /home/clonesit/public_html/kickstarterclone/application/views/default/user/main_dashboard.php on line 41
+[02-Oct-2012 12:43:51] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/clonesit/public_html/kickstarterclone/application/controllers/settings.php on line 280
+[02-Oct-2012 12:43:55] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/clonesit/public_html/kickstarterclone/application/controllers/settings.php on line 280
+[02-Oct-2012 18:27:11] PHP Fatal error:  Call to undefined method Home_model::get_category_multi() in /home/clonesit/public_html/kickstarterclone/application/controllers/start.php on line 135
+[02-Oct-2012 18:27:39] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 755
+[04-Oct-2012 17:39:01] CSRF state token does not match one provided.
+[04-Oct-2012 17:39:10] CSRF state token does not match one provided.
+[04-Oct-2012 17:42:09] CSRF state token does not match one provided.
+[04-Oct-2012 17:43:16] CSRF state token does not match one provided.
+[04-Oct-2012 17:43:40] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 1418
+[04-Oct-2012 17:43:43] CSRF state token does not match one provided.
+[04-Oct-2012 17:48:33] CSRF state token does not match one provided.
+[04-Oct-2012 18:05:51] CSRF state token does not match one provided.
+[04-Oct-2012 18:07:18] CSRF state token does not match one provided.
+[04-Oct-2012 18:10:40] CSRF state token does not match one provided.
+[04-Oct-2012 18:11:45] CSRF state token does not match one provided.
+[04-Oct-2012 18:12:26] CSRF state token does not match one provided.
+[05-Oct-2012 14:33:27] PHP Fatal error:  Call to undefined method Startproject_model::list_draft_project() in /home/clonesit/public_html/kickstarterclone/application/controllers/start.php on line 58
+[06-Oct-2012 17:32:09] PHP Fatal error:  Cannot redeclare parse_youtube_url() (previously declared in /home/clonesit/public_html/kickstarterclone/application/helpers/setting_helper.php:327) in /home/clonesit/public_html/kickstarterclone/application/helpers/setting_helper.php on line 550
+[06-Oct-2012 17:49:27] PHP Parse error:  syntax error, unexpected '<' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/home_content.php on line 278
+[06-Oct-2012 17:58:06] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common_card.php on line 48
+[06-Oct-2012 17:59:05] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/home_content.php on line 326
+[08-Oct-2012 19:08:03] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:38] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:39] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:39] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:39] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:39] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[08-Oct-2012 19:08:39] PHP Fatal error:  Call to undefined method Inbox_model::list_message_header() in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 319
+[09-Oct-2012 11:13:49] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 761
+[09-Oct-2012 11:13:52] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 1240
+[09-Oct-2012 13:54:17] PHP Fatal error:  Call to undefined function  get_catid_parent_id() in /home/clonesit/public_html/kickstarterclone/application/views/default/search/search_sidebar.php on line 61
+[09-Oct-2012 14:56:30] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 586
+[09-Oct-2012 14:56:30] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 586
+[09-Oct-2012 15:30:41] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 245
+[09-Oct-2012 15:30:44] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 245
+[09-Oct-2012 15:30:46] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 245
+[09-Oct-2012 16:18:00] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 88
+[10-Oct-2012 13:41:12] PHP Parse error:  syntax error, unexpected T_ELSE in /home/clonesit/public_html/kickstarterclone/application/views/default/user/my_donation.php on line 89
+[10-Oct-2012 13:57:45] PHP Fatal error:  Function name must be a string in /home/clonesit/public_html/kickstarterclone/application/controllers/payment.php on line 3957
+[10-Oct-2012 13:57:53] PHP Fatal error:  Function name must be a string in /home/clonesit/public_html/kickstarterclone/application/controllers/payment.php on line 3957
+[10-Oct-2012 15:22:37] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/user/my_donation.php on line 70
+[10-Oct-2012 15:22:40] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/user/my_donation.php on line 70
+[10-Oct-2012 15:42:03] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 1743
+[10-Oct-2012 15:42:03] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 1743
+[10-Oct-2012 15:42:06] PHP Parse error:  syntax error, unexpected $end, expecting T_STRING or T_VARIABLE or '$' in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 2878
+[10-Oct-2012 16:08:34] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 172
+[10-Oct-2012 16:10:47] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 517
+[10-Oct-2012 16:12:15] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 899
+[10-Oct-2012 16:14:31] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:35] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:38] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:41] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:42] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:42] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:42] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:42] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:42] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:14:43] PHP Parse error:  syntax error, unexpected ';' in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 255
+[10-Oct-2012 16:15:01] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 240
+[10-Oct-2012 16:20:13] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 240
+[11-Oct-2012 10:03:45] PHP Fatal error:  Call to undefined function  user_project_donation_count() in /home/clonesit/public_html/kickstarterclone/application/views/default/project/project_backers.php on line 59
+[11-Oct-2012 11:05:32] OAuthException: An active access token must be used to query information about the current user.
+[11-Oct-2012 11:05:49] CSRF state token does not match one provided.
+[11-Oct-2012 11:34:52] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 167
+[11-Oct-2012 11:34:59] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 167
+[11-Oct-2012 11:54:48] CurlException: 28: SSL connection timeout
+[11-Oct-2012 11:55:03] CurlException: 28: SSL connection timeout
+[11-Oct-2012 11:59:37] CurlException: 28: SSL connection timeout
+[11-Oct-2012 14:23:15] OAuthException: An active access token must be used to query information about the current user.
+[11-Oct-2012 14:26:59] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/invitefacebook.php on line 186
+[11-Oct-2012 14:27:01] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/invitefacebook.php on line 186
+[11-Oct-2012 14:27:03] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/invitefacebook.php on line 186
+[11-Oct-2012 14:27:36] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/invitefacebook.php on line 186
+[11-Oct-2012 15:27:47] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 1460
+[11-Oct-2012 15:32:46] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 318
+[11-Oct-2012 15:32:49] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 318
+[11-Oct-2012 15:32:52] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 318
+[11-Oct-2012 15:34:40] PHP Parse error:  syntax error, unexpected '{' in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 304
+[11-Oct-2012 15:34:43] PHP Parse error:  syntax error, unexpected '{' in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 304
+[11-Oct-2012 15:55:43] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 104
+[11-Oct-2012 15:55:43] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/facebookfriend.php on line 104
+[11-Oct-2012 15:59:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 20
+[11-Oct-2012 15:59:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 20
+[11-Oct-2012 16:00:15] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 710
+[11-Oct-2012 16:01:31] PHP Parse error:  syntax error, unexpected $end, expecting '&' or T_VARIABLE in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1476
+[11-Oct-2012 16:02:53] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1477
+[11-Oct-2012 16:13:29] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1396
+[11-Oct-2012 16:22:53] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/helpers/custom_helper.php on line 900
+[11-Oct-2012 16:22:55] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/clonesit/public_html/kickstarterclone/application/helpers/custom_helper.php on line 941
+[11-Oct-2012 16:23:25] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/helpers/custom_helper.php on line 691
+[11-Oct-2012 16:56:38] PHP Fatal error:  Call to undefined function  usernotifications() in /home/clonesit/public_html/kickstarterclone/application/views/default/invites/friend_sidebar.php on line 104
+[11-Oct-2012 16:57:05] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/clonesit/public_html/kickstarterclone/application/helpers/custom_helper.php on line 1079
+[11-Oct-2012 16:59:38] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 70
+[11-Oct-2012 16:59:57] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1142
+[11-Oct-2012 17:00:01] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1772
+[11-Oct-2012 17:00:02] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1772
+[11-Oct-2012 17:00:28] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 83
+[11-Oct-2012 17:00:28] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 83
+[11-Oct-2012 17:00:30] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 449
+[11-Oct-2012 17:00:30] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 449
+[11-Oct-2012 17:00:33] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 856
+[11-Oct-2012 17:00:37] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1703
+[11-Oct-2012 17:49:55] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 1534
+[11-Oct-2012 17:50:57] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 345
+[11-Oct-2012 17:52:16] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 275
+[11-Oct-2012 17:52:20] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1073
+[11-Oct-2012 17:52:20] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 1073
+[11-Oct-2012 17:58:32] PHP Warning:  Unterminated comment starting line 383 in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 383
+[11-Oct-2012 17:58:32] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/clonesit/public_html/kickstarterclone/application/models/home_model.php on line 383
+[12-Oct-2012 11:52:00] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/user/user_blog.php on line 77
+[13-Oct-2012 15:52:01] PHP Parse error:  syntax error, unexpected '/' in /home/clonesit/public_html/kickstarterclone/application/controllers/blog.php on line 73
+[13-Oct-2012 15:52:03] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/blog.php on line 244
+[13-Oct-2012 15:52:05] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/blog.php on line 244
+[13-Oct-2012 15:52:07] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/blog.php on line 244
+[15-Oct-2012 18:19:26] PHP Fatal error:  Call to undefined function  get_user_project_catregory_for_graph() in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 252
+[15-Oct-2012 18:20:08] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 3252
+[16-Oct-2012 15:44:28] PHP Fatal error:  Call to undefined function  get_all_curated_page_home() in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 77
+[16-Oct-2012 15:50:42] PHP Fatal error:  Call to undefined method Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/views/default/inbox/list_message.php on line 105
+[16-Oct-2012 16:58:26] PHP Fatal error:  Call to undefined method Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/views/default/inbox/list_message.php on line 105
+[16-Oct-2012 17:01:09] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 249
+[16-Oct-2012 17:01:12] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 3325
+[16-Oct-2012 17:01:12] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 3325
+[16-Oct-2012 17:03:03] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 17:03:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 17:03:03] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 17:03:03] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 17:03:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 17:03:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/clonesit/public_html/kickstarterclone/application/controllers/home.php on line 677
+[16-Oct-2012 18:29:53] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 660
+[16-Oct-2012 18:29:53] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 660
+[16-Oct-2012 18:29:53] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/discover.php on line 660
+[17-Oct-2012 16:36:04] PHP Fatal error:  Cannot use object of type stdClass as array in /home/clonesit/public_html/kickstarterclone/application/controllers/start.php on line 1172
+[17-Oct-2012 16:36:49] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/start.php on line 610
+[17-Oct-2012 16:37:34] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/helpers/custom_helper.php on line 355
+[17-Oct-2012 17:13:29] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/views/default/common/header_login.php on line 171
+[17-Oct-2012 17:23:59] PHP Fatal error:  Call to undefined method Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/views/default/inbox/list_message.php on line 105
+[17-Oct-2012 17:59:33] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 87
+[17-Oct-2012 17:59:33] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 87
+[17-Oct-2012 17:59:36] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 590
+[18-Oct-2012 18:12:25] PHP Fatal error:  Call to undefined method User_model::list_all_comments_count() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 297
+[18-Oct-2012 18:15:04] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/models/user_model.php on line 75
+[18-Oct-2012 18:15:09] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:11] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:13] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:14] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:15] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:15] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:15] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:15] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:15] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:16] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:19] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:15:19] PHP Fatal error:  Call to undefined method User_model::list_all_comments() in /home/clonesit/public_html/kickstarterclone/application/controllers/user.php on line 310
+[18-Oct-2012 18:16:14] PHP Parse error:  syntax error, unexpected $end in /home/clonesit/public_html/kickstarterclone/application/models/user_model.php on line 96
+[19-Oct-2012 13:26:59] PHP Fatal error:  Cannot redeclare Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/models/inbox_model.php on line 215
+[19-Oct-2012 13:27:01] PHP Fatal error:  Cannot redeclare Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/models/inbox_model.php on line 215
+[19-Oct-2012 13:27:01] PHP Fatal error:  Cannot redeclare Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/models/inbox_model.php on line 215
+[19-Oct-2012 13:27:05] PHP Fatal error:  Cannot redeclare Inbox_model::get_message_detail_count() in /home/clonesit/public_html/kickstarterclone/application/models/inbox_model.php on line 215
+[19-Oct-2012 13:46:02] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:09] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:12] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:13] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:22] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:23] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:23] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:24] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:24] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:25] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:26] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:26] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:27] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:28] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:28] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:29] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:31] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:34] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:41] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:48] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:49] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:52] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:46:59] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:47:02] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:47:06] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:47:09] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:47:44] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:48:28] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:48:32] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 13:48:33] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 14:29:01] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 14:29:05] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 14:29:11] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 14:29:15] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 14:29:40] PHP Fatal error:  Call to undefined function  userblocklist() in /home/clonesit/public_html/kickstarterclone/application/controllers/friends.php on line 136
+[19-Oct-2012 16:06:43] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:06:46] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:43] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:43] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:47] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:50] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:52] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:53] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:54] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:56] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:57] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:09:59] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:04] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:11] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:15] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:18] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:29] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:37] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:38] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:38] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:39] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:40] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:10:40] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:45:33] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:45:36] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:45:51] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:46:00] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:46:03] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:46:04] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:46:06] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:47:36] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:47:40] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:47:52] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:47:55] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:47:57] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:05] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:06] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:06] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:07] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:08] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:08] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:09] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:12] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 16:48:14] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:03:14] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:03:18] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:03:25] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:03:34] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:03:37] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:04:55] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:04:58] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:04:59] OAuthException: An active access token must be used to query information about the current user.
+[19-Oct-2012 17:34:49] PHP Fatal error:  Function name must be a string in /home/clonesit/public_html/kickstarterclone/application/controllers/payment.php on line 4524
+[19-Oct-2012 18:06:19] PHP Fatal error:  Uncaught OAuthException: (#200) This API call requires a valid app_id.
+  thrown in /home/clonesit/public_html/kickstarterclone/application/libraries/facebook/base_facebook.php on line 1040
+[20-Oct-2012 12:32:29] OAuthException: Error validating access token: Session has expired at unix time 1350716400. The current unix time is 1350716549.
+[05-Nov-2012 18:14:12] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:15] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:17] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:21] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:21] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:24] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:37] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:54] OAuthException: An active access token must be used to query information about the current user.
+[05-Nov-2012 18:14:54] OAuthException: An active access token must be used to query information about the current user.
+[06-Nov-2012 10:24:27] CSRF state token does not match one provided.
+[06-Nov-2012 10:26:01] CSRF state token does not match one provided.
+[06-Nov-2012 10:30:10] CSRF state token does not match one provided.
+[07-Nov-2012 14:12:32] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:12:36] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:14:37] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:15:16] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:15:23] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:15:47] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:15:57] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:16:20] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 14:16:28] OAuthException: An active access token must be used to query information about the current user.
+[07-Nov-2012 15:32:18] OAuthException: Error validating access token: Session has expired at unix time 1352282400. The current unix time is 1352282538.
+[08-Nov-2012 15:03:09] OAuthException: An active access token must be used to query information about the current user.
+[08-Nov-2012 15:03:12] OAuthException: An active access token must be used to query information about the current user.
+[08-Nov-2012 15:05:20] OAuthException: An active access token must be used to query information about the current user.
+[08-Nov-2012 15:05:21] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:39:22] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:39:28] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:40:05] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:40:14] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:40:20] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:40:22] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:40:36] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:41:02] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:51:04] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:51:07] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:51:16] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 00:51:37] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 02:09:05] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 02:09:07] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 03:39:51] OAuthException: An active access token must be used to query information about the current user.
+[06-Jan-2013 03:40:20] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 11:11:00] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:42:57] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:43:01] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:43:22] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:45:20] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:45:23] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:45:37] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:46:23] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 13:46:27] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 23:12:32] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 23:12:38] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 23:12:42] OAuthException: An active access token must be used to query information about the current user.
+[08-Jan-2013 23:12:54] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:19:25] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:19:28] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:26:46] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:26:54] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:19] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:29] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:33] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:40] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:43] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:47] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:27:59] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:04] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:06] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:18] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:23] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:25] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:32] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:34] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:37] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:43] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:44] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:45] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:46] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:46] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:47] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:48] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:49] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:28:55] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:44:03] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:44:05] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:46:19] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:46:22] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:47:19] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:47:23] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:49:59] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:50:08] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:52:16] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:52:20] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:52:38] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:52:45] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:55:01] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:55:04] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:57:42] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:57:45] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:57:56] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:58:12] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:58:16] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:58:30] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 15:58:35] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:11:46] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:11:50] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:24:49] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:24:54] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:24:57] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:25:01] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:25:16] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:25:19] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:27:01] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:27:04] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:27:06] OAuthException: An active access token must be used to query information about the current user.
+[09-Jan-2013 16:27:07] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:02] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:05] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:14] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:16] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:33] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 10:53:35] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 13:56:26] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 13:56:59] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:40:47] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:40:49] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:41:06] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:41:09] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:41:28] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:41:30] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:44:57] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:45:20] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:45:22] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:45:31] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:46:02] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 15:46:23] OAuthException: An active access token must be used to query information about the current user.
+[12-Jan-2013 04:40:16] PHP Warning:  POST Content-Length of 26246805 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jan-2013 04:44:59] PHP Warning:  POST Content-Length of 26246847 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jan-2013 04:45:34] PHP Warning:  POST Content-Length of 26246847 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Jan-2013 05:35:08] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:55:10] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:55:26] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:55:28] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:12] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:15] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:32] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:34] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:43] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:56:45] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:59:37] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:59:57] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 17:59:59] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:00:06] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:00:08] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:00:28] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:00:30] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:02:23] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:02:33] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:03:35] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:03:37] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:03:49] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:03:50] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:05:18] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:05:21] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 18:05:49] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 19:37:33] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 19:38:06] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 19:38:09] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 19:38:15] OAuthException: An active access token must be used to query information about the current user.
+[14-Jan-2013 19:38:17] OAuthException: An active access token must be used to query information about the current user.
+[16-Jan-2013 21:45:56] OAuthException: An active access token must be used to query information about the current user.
+[16-Jan-2013 21:46:11] OAuthException: An active access token must be used to query information about the current user.
+[16-Jan-2013 21:46:25] OAuthException: An active access token must be used to query information about the current user.
+[17-Jan-2013 00:56:58] OAuthException: An active access token must be used to query information about the current user.
+[17-Jan-2013 00:57:22] OAuthException: An active access token must be used to query information about the current user.
+[17-Jan-2013 23:15:21] OAuthException: An active access token must be used to query information about the current user.
+[17-Jan-2013 23:18:41] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:47:56] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:47:57] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:12] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:14] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:15] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:25] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:29] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:43] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:44] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 08:48:46] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:41:10] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:41:12] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:51:42] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:51:45] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:54:21] OAuthException: An active access token must be used to query information about the current user.
+[18-Jan-2013 10:54:47] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:02] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:06] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:12] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:50] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:53] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:55] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:03:57] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 12:04:08] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:13:09] CSRF state token does not match one provided.
+[21-Jan-2013 13:15:07] CSRF state token does not match one provided.
+[21-Jan-2013 13:16:47] CSRF state token does not match one provided.
+[21-Jan-2013 13:17:09] CSRF state token does not match one provided.
+[21-Jan-2013 13:17:12] CSRF state token does not match one provided.
+[21-Jan-2013 13:17:47] CSRF state token does not match one provided.
+[21-Jan-2013 13:18:05] CSRF state token does not match one provided.
+[21-Jan-2013 13:19:02] CSRF state token does not match one provided.
+[21-Jan-2013 13:20:11] CSRF state token does not match one provided.
+[21-Jan-2013 13:21:07] CSRF state token does not match one provided.
+[21-Jan-2013 13:21:09] CSRF state token does not match one provided.
+[21-Jan-2013 13:21:13] CSRF state token does not match one provided.
+[21-Jan-2013 13:21:16] CSRF state token does not match one provided.
+[21-Jan-2013 13:21:52] CSRF state token does not match one provided.
+[21-Jan-2013 13:22:35] CSRF state token does not match one provided.
+[21-Jan-2013 13:23:38] CSRF state token does not match one provided.
+[21-Jan-2013 13:23:42] CSRF state token does not match one provided.
+[21-Jan-2013 13:24:15] CSRF state token does not match one provided.
+[21-Jan-2013 13:24:49] CSRF state token does not match one provided.
+[21-Jan-2013 13:25:27] CSRF state token does not match one provided.
+[21-Jan-2013 13:25:31] CSRF state token does not match one provided.
+[21-Jan-2013 13:25:53] CSRF state token does not match one provided.
+[21-Jan-2013 13:27:37] CSRF state token does not match one provided.
+[21-Jan-2013 13:27:55] CSRF state token does not match one provided.
+[21-Jan-2013 13:29:52] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:29:55] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:47:57] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:03] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:13] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:15] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:23] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:23] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:24] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:25] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:26] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:26] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:27] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:28] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:29] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:29] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:30] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 13:48:31] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 14:10:53] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 14:10:56] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 14:11:22] OAuthException: An active access token must be used to query information about the current user.
+[21-Jan-2013 14:11:25] OAuthException: An active access token must be used to query information about the current user.
+[25-Jan-2013 13:46:34] CSRF state token does not match one provided.

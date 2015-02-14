@@ -1,0 +1,17 @@
+[08-Jun-2012 09:12:01] PHP Warning:  require_once(../system/codeigniter/CodeIgniter.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/rockers/public_html/GROUPFUND.ME/cripsnew/admin/index.php on line 115
+[08-Jun-2012 09:12:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../system/codeigniter/CodeIgniter.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rockers/public_html/GROUPFUND.ME/cripsnew/admin/index.php on line 115
+[08-Jun-2012 10:09:26] PHP Fatal error:  Class 'Controller' not found in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/admin/controllers/home.php on line 2
+[08-Jun-2012 10:13:18] PHP Fatal error:  Call to a member function write() on a non-object in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/admin/controllers/home.php on line 12
+[08-Jun-2012 10:13:23] PHP Fatal error:  Call to a member function write() on a non-object in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/admin/controllers/home.php on line 12
+[26-Jul-2012 10:22:08] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/admin/views/list_amazon.php on line 49
+[26-Jul-2012 12:05:44] PHP Parse error:  syntax error, unexpected $end in /home/rockers/public_html/GROUPFUND.ME/cripsnew/application/admin/views/list_amazon.php on line 299
+[08-Jan-2013 13:45:16] OAuthException: An active access token must be used to query information about the current user.
+[10-Jan-2013 11:54:56] PHP Parse error:  syntax error, unexpected '}' in /home/cloneyar/public_html/kickstarter/application/admin/controllers/blog.php on line 554
+[06-Apr-2013 17:27:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/controllers/curated.php on line 1
+[06-Apr-2013 17:29:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/controllers/curated.php on line 1
+[06-Apr-2013 17:30:28] PHP Fatal error:  Call to undefined method Curated_model::get_all_project() in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/controllers/curated.php on line 889
+[06-Apr-2013 17:32:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/models/curated_model.php on line 1
+[06-Apr-2013 17:33:29] PHP Parse error:  syntax error, unexpected T_STRING in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/models/curated_model.php on line 1
+[06-Apr-2013 17:33:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/models/curated_model.php on line 1
+[06-Jun-2013 16:03:51] PHP Fatal error:  Uncaught OAuthException: Cannot call API on behalf of this user
+  thrown in /home/rockers/public_html/hireiphone.com/kickstater/application/admin/libraries/facebook/base_facebook.php on line 1041

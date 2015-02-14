@@ -1,0 +1,26 @@
+
+
+/*---------------------------------
+ *  Code formatting
+ *---------------------------------*/
+.code-details{display:none;}
+.code-pre{margin:10px 0 15px;padding:10px;overflow:auto;overflow-y:hidden;color:#333;border-left:3px solid #6ce26c;background:#F2F1F1;}
+.code-block{margin:0 0 15px;}
+.code-notes{margin:10px 0 15px;padding:10px;color:#000;border:1px solid #ccc;background:#ffffec;}
+.code-notes h4{margin-top:0;}
+.code-setting{color:#0857b8;font-weight:bold;font-style:normal;}
+.code-value{color:green;font-weight:bold;font-style:normal;}
+.code-classname{color:#990066;font-style:normal;}
+.code-filename{color:#af5f00;font-style:normal;}
+.code-comment{color:green;font-style:normal;}
+.code-togglebtn{display:block;}
+.code-sitename{/*color:#000;background:#F2F1F1;*/}
+.code-lowlight{color:#999;}
+.code-error{color:red;}
+.code-depreciated{color:red;padding:0 0 0 5px;}
+
+/*---------------------------------
+ *  Settings list
+ *---------------------------------*/
+.setting-type{color:#666;}
+.setting-value em{color:#005b7d;font-style:normal;}
