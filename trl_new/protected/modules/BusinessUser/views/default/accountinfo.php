@@ -1,0 +1,1 @@
+<?php $this->renderPartial('_update_account_info_form', array('model'=>$model ,'model_Ccdetails'=> $model_Ccdetails)); ?>

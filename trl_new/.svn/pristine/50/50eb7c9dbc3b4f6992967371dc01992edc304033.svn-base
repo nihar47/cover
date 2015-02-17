@@ -1,0 +1,36 @@
+
+#Scroller-1, #Scroller-2{ 
+  position: relative; 
+
+  width:107%;
+  height:346px;
+  margin:0px 0px 10px -1px;
+}
+
+
+#Scroller-2 { margin:0px; padding:0px;}
+
+
+.Scroller-Container {
+  position: absolute;
+  top: 0px; 
+  margin:0px 0px 0px 0px;
+  left: 0px;
+}
+.Scrollbar-Up {
+  cursor: pointer;
+  position: absolute;
+  top: -42px; left: 0px;
+}
+.Scrollbar-Down {
+  cursor: pointer;
+  position: absolute;
+  top:353px; left: 0px;
+}
+.event{margin:0px; padding:0px; font-family:Arial, Helvetica, sans-serif;}
+.event li{ list-style:none; margin:0px 0px 1px 0px;}
+.event li a{ list-style:none; text-decoration:none; background:#e6e7e7; line-height:32px; width:253px; height:33px; display:block; padding:0px 0px 0px 20px; color:#828282; font-size:14px; }
+.event li a span{ float:right; display:block; width:65px;  text-align:right; padding:0px 10px 0px 0px; font-size:14px; }
+.event li a:hover{ list-style:none; background:#9d9fa2; width:253px; height:33px; display:block; color:#fff; font-size:14px; }
+.no-mar-l{margin-left:0px; padding:0;}
+.event li a.act{ list-style:none; text-decoration:none; background:#9d9fa2; line-height:32px; width:253px; height:33px; display:block; padding:0px 0px 0px 20px; color:#fff; font-size:14px;}

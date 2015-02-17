@@ -1,0 +1,1 @@
+<?php $this->renderPartial('_update_profilesettings_form', array('model'=>$model )); ?>
